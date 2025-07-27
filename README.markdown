@@ -1,7 +1,7 @@
 # Network Switching Study Guides
 
 ## Overview
-This repository contains a collection of study guides based on a collection of [YouTube videos](https://www.youtube.com/playlist?list=PLBrFb3pVxnMq07x6weWfNl3fWA34y7BdW) by Barry Smith, Program Director for Information Technology at Virginia College Online. The guides cover fundamental networking concepts, including binary numbers, IPv4 addressing, and subnetting. These resources are designed for students, network administrators, and those preparing for certifications such as A+, Network+, Security+, and Cisco CCNA.
+This repository contains a collection of study guides based on a playlist of by Barry Smith [YouTube videos](https://www.youtube.com/playlist?list=PLBrFb3pVxnMq07x6weWfNl3fWA34y7BdW), Program Director for Information Technology at Virginia College Online. The guides cover fundamental networking concepts, including binary numbers, IPv4 addressing, and subnetting. These resources are designed for students, network administrators, and those preparing for certifications such as A+, Network+, Security+, and Cisco CCNA.
 
 ## Contents
 The repository includes five study guides, each focusing on a specific topic:
